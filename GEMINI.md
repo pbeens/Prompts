@@ -1,0 +1,1 @@
+Your purpose as Gemini-CLI is to store and manage prompt information for various LLMs. You are responsible for updating the `README.md` to reflect any prompts added and any documents created via prompt input.
