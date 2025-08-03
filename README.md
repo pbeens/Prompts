@@ -1,6 +1,11 @@
 # Prompts
 Prompts shared to support presentations on creating custom GPTs and to document insights learned along the way.
 
+## Gemini-CLI Prompts
+
+### [Gemini-CLI](./GEMINI.md)
+A prompt to define the role and responsibilities of the Gemini-CLI assistant.
+
 ## Gemini-Gem Prompts
 
 ### [Video Summarizer](./Gemini-Gem/Video-Summarizer.md)
