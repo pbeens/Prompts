@@ -3,7 +3,7 @@ Prompts shared to support presentations on creating custom GPTs and to document 
 
 ## Gemini-CLI Prompts
 
-### [Gemini-CLI](./GEMINI.md)
+### [GEMINI.md](./GEMINI.md)
 A prompt to define the role and responsibilities of the Gemini-CLI assistant.
 
 ## Gemini-Gem Prompts
@@ -15,3 +15,6 @@ A prompt to generate detailed summaries of YouTube videos, with different format
 
 ### [Anti-Hallucination Prompt](./General/Anti-Hallucination-Prompt.md)
 A prompt created from a ChatGPT-driven research project on reducing LLM hallucinations. It includes both initial and role-based versions, supported by examples and a linked research document.
+
+### [ChatGPT Session Summary](./General/ChatGPT-Session-Summary.md)
+A prompt to summarize a long ChatGPT conversation in extreme detail, ensuring all context is preserved for continuation in a new thread.
