@@ -22,6 +22,9 @@ A prompt to summarize a long ChatGPT conversation in extreme detail, ensuring al
 ### [Classroom What-If Machine](./General/Classroom-What-If-Machine.md)
 Create instant alternate-reality scenarios for your classroom! Just enter a grade level and a subject, and the Classroom What-If Machine will generate a fun, imaginative “What if…” question with a short scenario and two thought-provoking discussion prompts — perfect for sparking curiosity and conversation.
 
+### [ChatGPT Link Builder](./General/ChatGPT-Link-Builder.md)
+Enter a ChatGPT or Custom GPT URL (or just “ChatGPT”) plus a prompt, and I’ll return ready-to-use links in Markdown, HTML, and plain text that launch the GPT with the prompt prefilled.
+
 ## Support Material
 
 ### [My Custom GPTs](Support-Material/My-Custom-GPTs.md)
