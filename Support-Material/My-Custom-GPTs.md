@@ -26,6 +26,7 @@
 - [Peter’s Prompt Wizard](https://chatgpt.com/g/g-6HMUmtE6T-peter-s-prompt-wizard)
 - [Peter’s Prompt Creator II](https://chatgpt.com/g/g-67a2d71581788191b0b5e417c9772b52-peter-s-prompt-creator-ii)
 - [Alisa Prompt Optimizer](https://chatgpt.com/g/g-686e9a5cbde08191b83768baa2121425-alisa-prompt-optimizer)
+- [ChatGPT Link Builder](https://github.com/pbeens/Prompts/blob/main/General/ChatGPT-Link-Builder.md) (Source instructions only)
 
 ## 4. Writing & Publishing Tools
 
