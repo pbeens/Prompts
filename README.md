@@ -18,3 +18,14 @@ A prompt created from a ChatGPT-driven research project on reducing LLM hallucin
 
 ### [ChatGPT Session Summary](./General/ChatGPT-Session-Summary.md)
 A prompt to summarize a long ChatGPT conversation in extreme detail, ensuring all context is preserved for continuation in a new thread.
+
+### [Classroom What-If Machine](./General/Classroom-What-If-Machine.md)
+Create instant alternate-reality scenarios for your classroom! Just enter a grade level and a subject, and the Classroom What-If Machine will generate a fun, imaginative “What if…” question with a short scenario and two thought-provoking discussion prompts — perfect for sparking curiosity and conversation.
+
+## Support Material
+
+### [My Custom GPTs](Support-Material/My-Custom-GPTs.md)
+A collection of custom GPTs for various tasks, including education, programming, writing, and more.
+
+### [Demo Program](./Support-Material/Demo-Program/)
+A simple program used to demonstrate the capabilities of a custom GPT built to add insightful and accurate comments to code.
