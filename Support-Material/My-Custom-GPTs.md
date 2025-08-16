@@ -20,6 +20,7 @@
 - [Python Assistant](https://chatgpt.com/g/g-hKx4ij2er-python-assistant)
 - [Peter’s Jupyter Notebook Style & Content Checker](https://chatgpt.com/g/g-zxF3BvnVD-peter-s-jupyter-notebook-style-and-content-checker)
 - [Gemini CLI Prompt Creator](https://chatgpt.com/g/g-688bb6eb81a08191a49bcb7cf3840452-gemini-cli-prompt-creator)
+- [Program Concept Decomposer](https://chatgpt.com/g/g-68a05f08deb081919f78afe527211d93-program-concept-decomposer)
 
 ## 3. Prompt Engineering & Meta-AI Tools
 
