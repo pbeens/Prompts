@@ -54,7 +54,7 @@
 
 ## 7. Special Education & Advocacy
 
-- [Educational Special Education Resources](https://chatgpt.com/g/g-67566fa29e208191a182ecee61f9927a-special-education-resources)
+- [Special Education Resources](https://chatgpt.com/g/g-67566fa29e208191a182ecee61f9927a-special-education-resources)
 
 ## 8. Creative, Engagement, and Social Media Tools
 
@@ -71,3 +71,4 @@
 - [Obsidian Notes](https://chatgpt.com/g/g-6887932a58dc81919c58c3f763224f4c-obsidian-notes)
 - [Peter’s Callysto Colab Button Generator](https://chatgpt.com/g/g-ZgDyS5EfL-peter-s-callysto-colab-button-generator)
 - [Obsidian Topic Page Generator](https://chatgpt.com/g/g-68a469976704819191264f279fab8623-obsidian-topic-page-generator)
+- [Find Keywords](https://chatgpt.com/g/g-mL985wIE7-find-keywords)
